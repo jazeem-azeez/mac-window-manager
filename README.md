@@ -1,4 +1,4 @@
-# Spectacle
+# Mac-window-manager-Spectacle
 
 [![Build Status](https://travis-ci.org/eczarny/spectacle.svg?branch=master)](https://travis-ci.org/eczarny/spectacle)
 
